@@ -1,0 +1,11 @@
+C:\Users\nicho\source\repos\yahtzee\yahtzee\bin\Debug\netcoreapp2.2\yahtzee.deps.json
+C:\Users\nicho\source\repos\yahtzee\yahtzee\bin\Debug\netcoreapp2.2\yahtzee.runtimeconfig.json
+C:\Users\nicho\source\repos\yahtzee\yahtzee\bin\Debug\netcoreapp2.2\yahtzee.runtimeconfig.dev.json
+C:\Users\nicho\source\repos\yahtzee\yahtzee\bin\Debug\netcoreapp2.2\yahtzee.dll
+C:\Users\nicho\source\repos\yahtzee\yahtzee\bin\Debug\netcoreapp2.2\yahtzee.pdb
+C:\Users\nicho\source\repos\yahtzee\yahtzee\obj\Debug\netcoreapp2.2\yahtzee.csprojAssemblyReference.cache
+C:\Users\nicho\source\repos\yahtzee\yahtzee\obj\Debug\netcoreapp2.2\yahtzee.csproj.CoreCompileInputs.cache
+C:\Users\nicho\source\repos\yahtzee\yahtzee\obj\Debug\netcoreapp2.2\yahtzee.AssemblyInfoInputs.cache
+C:\Users\nicho\source\repos\yahtzee\yahtzee\obj\Debug\netcoreapp2.2\yahtzee.AssemblyInfo.cs
+C:\Users\nicho\source\repos\yahtzee\yahtzee\obj\Debug\netcoreapp2.2\yahtzee.dll
+C:\Users\nicho\source\repos\yahtzee\yahtzee\obj\Debug\netcoreapp2.2\yahtzee.pdb
