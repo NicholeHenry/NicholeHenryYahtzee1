@@ -1,4 +1,5 @@
 ﻿using System;
+using Sysytem.Collections.Genric;
 using System.Linq;
 
 namespace yahtzee
@@ -10,13 +11,13 @@ namespace yahtzee
         static void Main(string[] args)
         {
 
-            int winningNumber = 0;
-            int computerWinner = 0;
-            string[] diceRolls = new string[5];
+           // int winningNumber = 0;
+           // int computerWinner = 0;
+           // string[] diceRolls = new string[5];
 
-            RandomNumber(winningNumber);
-            ComputerRolls(computerWinner);
-            WinnerOfGame(winningNumber, computerWinner);
+           // RandomNumber(winningNumber);
+           // ComputerRolls(computerWinner);
+          // WinnerOfGame(winningNumber, computerWinner);
 
             Console.ReadLine();
 
@@ -29,7 +30,7 @@ namespace yahtzee
         {
             Random randomNumber = new Random();
 
-            string[] diceRolls = new string[5];
+           /* string[] diceRolls = new string[5];
 
             diceRolls[0] = randomNumber.Next(1, 6).ToString();
             diceRolls[1] = randomNumber.Next(1, 6).ToString();
@@ -41,9 +42,19 @@ namespace yahtzee
             {
                 Console.WriteLine($"Roll 1: {item}");
 
-            }
+            }*/
+            string dice = new List<string>();
+            dice.add(Random.Next(1,6).ToString(dice1));
+            dice.add(Random.Next(1,6).ToString(dice2));
+            dice.add(Random.Next(1,6).ToString(dice3));
+            dice.add(Random.Next(1,6).ToString(dice4));
+            dice.add(Random.Next(1,6).ToString(dice5));
 
-            Console.WriteLine("Which dice would you like to remove?");
+            Console.Write(dice1);
+
+
+
+           /* Console.WriteLine("Which dice would you like to remove?");
 
 
             // string diceIndex = diceRolls.IndexOf(Console.ReadLine());
@@ -298,7 +309,7 @@ namespace yahtzee
                 winner = winningNumber;
                 Console.WriteLine("You win!");
             }
-            return winner;
+            return winner;*/
         }
 
     }

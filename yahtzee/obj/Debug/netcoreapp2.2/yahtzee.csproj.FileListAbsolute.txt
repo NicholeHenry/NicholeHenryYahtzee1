@@ -9,3 +9,9 @@ C:\Users\nicho\source\repos\yahtzee\yahtzee\obj\Debug\netcoreapp2.2\yahtzee.Asse
 C:\Users\nicho\source\repos\yahtzee\yahtzee\obj\Debug\netcoreapp2.2\yahtzee.AssemblyInfo.cs
 C:\Users\nicho\source\repos\yahtzee\yahtzee\obj\Debug\netcoreapp2.2\yahtzee.dll
 C:\Users\nicho\source\repos\yahtzee\yahtzee\obj\Debug\netcoreapp2.2\yahtzee.pdb
+C:\Users\nicho\Source\Repos\NicholeHenryYahtzee12\yahtzee\obj\Debug\netcoreapp2.2\yahtzee.csprojAssemblyReference.cache
+C:\Users\nicho\Source\Repos\NicholeHenryYahtzee12\yahtzee\obj\Debug\netcoreapp2.2\yahtzee.csproj.CoreCompileInputs.cache
+C:\Users\nicho\Source\Repos\NicholeHenryYahtzee12\yahtzee\obj\Debug\netcoreapp2.2\yahtzee.AssemblyInfoInputs.cache
+C:\Users\nicho\Source\Repos\NicholeHenryYahtzee12\yahtzee\obj\Debug\netcoreapp2.2\yahtzee.AssemblyInfo.cs
+C:\Users\nicho\Source\Repos\NicholeHenryYahtzee12\yahtzee\obj\Debug\netcoreapp2.2\yahtzee.dll
+C:\Users\nicho\Source\Repos\NicholeHenryYahtzee12\yahtzee\obj\Debug\netcoreapp2.2\yahtzee.pdb
